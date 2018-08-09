@@ -1,1 +1,4 @@
-"# LearningPython3" 
+# Learning Python 3 by implementation of algorithms
+
+## Implemented
+* QuickSort
